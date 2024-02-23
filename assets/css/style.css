@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Organizing the top heading of the webpage  */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,6 +70,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+ /* Focuses on the main part of the webpage giving it a distant and eye catching style  */
 
 .content {
     width: 75%;
@@ -187,6 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Stylizes in the final message at the bottom of the webpage  */
 
 footer {
     padding: 30px;
